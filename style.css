@@ -1,0 +1,40 @@
+*{
+    background-color: bisque;
+    margin: 10px;
+    font-family:sans-serif;
+    color:rgba(0, 0, 0, 0.717);
+    text-align: center;
+
+}
+nav{
+    border-style: ridge;
+    font-size: larger;
+    background-color: blanchedalmond;
+    padding: 10px;    
+}
+header{
+    border-style: ridge;
+    background-color: blanchedalmond;
+    width: 98.6%;
+
+}
+.but{
+    border-style: ridge;
+    background-color: rgb(255, 214, 165);
+    margin: 10px;
+    border-color: white;
+}
+.but:hover{
+    border-color: rgba(0, 0, 255, 0.451);
+    background-color: rgba(63, 218, 166, 0.391);
+    color:aliceblue;
+}
+main{
+    font-size: 50px;
+    border-style: ridge;
+    padding: 10px;
+}
+footer{
+    border-style: ridge;
+    background-color: blanchedalmond;
+}
